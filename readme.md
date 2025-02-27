@@ -1,0 +1,1 @@
+This is my public repository that houses mini-projects I have developed to learn C++
