@@ -214,6 +214,24 @@ CMAKE_TAPI:FILEPATH=/Library/Developer/CommandLineTools/usr/bin/tapi
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
+cli-calculator_BINARY_DIR:STATIC=/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/cli-calculator
+
+//Value Computed by CMake
+cli-calculator_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+cli-calculator_SOURCE_DIR:STATIC=/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/projects/cli-calculator
+
+//Value Computed by CMake
+cli_calculator_BINARY_DIR:STATIC=/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/cli-calculator
+
+//Value Computed by CMake
+cli_calculator_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+cli_calculator_SOURCE_DIR:STATIC=/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/projects/cli-calculator
+
+//Value Computed by CMake
 hypotenuse_calculator_BINARY_DIR:STATIC=/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/hypotenuse-calculator
 
 //Value Computed by CMake
@@ -344,7 +362,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=3
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=4
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

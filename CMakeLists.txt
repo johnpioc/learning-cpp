@@ -8,3 +8,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 # Include projects and sandbox
 add_subdirectory(sandbox)
 add_subdirectory(projects/hypotenuse-calculator)
+add_subdirectory(projects/cli-calculator)

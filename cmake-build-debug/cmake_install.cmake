@@ -41,6 +41,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/sandbox/cmake_install.cmake")
   include("/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/hypotenuse-calculator/cmake_install.cmake")
+  include("/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/cli-calculator/cmake_install.cmake")
 
 endif()
 
