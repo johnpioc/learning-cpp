@@ -1,0 +1,12 @@
+# Ignore build directories
+cmake-build-*/
+build/
+
+# Ignore CLion files
+.idea/
+*.iml
+
+# Ignore compiled files
+*.o
+*.out
+*.exe

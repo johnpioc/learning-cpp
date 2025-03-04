@@ -1,6 +1,10 @@
-cmake_minimum_required(VERSION 3.29)
-project(learning_cpp)
+cmake_minimum_required(VERSION 3.10)
+project(learningcpp)
 
-set(CMAKE_CXX_STANDARD 20)
+# Set C++ Standard
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
 
-add_executable(learning_cpp main.cpp)
+# Include projects and sandbox
+add_subdirectory(sandbox)
+add_subdirectory(projects/hypotenuse-calculator)

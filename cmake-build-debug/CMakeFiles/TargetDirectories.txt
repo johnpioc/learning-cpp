@@ -1,3 +1,8 @@
-/Users/johnpioc/Programming/learning-cpp/cmake-build-debug/CMakeFiles/learning_cpp.dir
-/Users/johnpioc/Programming/learning-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/johnpioc/Programming/learning-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/sandbox/CMakeFiles/sandbox.dir
+/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/sandbox/CMakeFiles/edit_cache.dir
+/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/sandbox/CMakeFiles/rebuild_cache.dir
+/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/hypotenuse-calculator/CMakeFiles/hypotenuse_calculator.dir
+/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/hypotenuse-calculator/CMakeFiles/edit_cache.dir
+/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/hypotenuse-calculator/CMakeFiles/rebuild_cache.dir
