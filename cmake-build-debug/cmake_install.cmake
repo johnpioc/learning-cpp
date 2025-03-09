@@ -43,6 +43,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/hypotenuse-calculator/cmake_install.cmake")
   include("/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/cli-calculator/cmake_install.cmake")
   include("/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/temperature-converter/cmake_install.cmake")
+  include("/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/number-guessing-game/cmake_install.cmake")
 
 endif()
 

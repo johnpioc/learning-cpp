@@ -12,3 +12,6 @@
 /Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/temperature-converter/CMakeFiles/temperature-calculator.dir
 /Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/temperature-converter/CMakeFiles/edit_cache.dir
 /Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/temperature-converter/CMakeFiles/rebuild_cache.dir
+/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/number-guessing-game/CMakeFiles/number-guessing-game.dir
+/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/number-guessing-game/CMakeFiles/edit_cache.dir
+/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/number-guessing-game/CMakeFiles/rebuild_cache.dir
