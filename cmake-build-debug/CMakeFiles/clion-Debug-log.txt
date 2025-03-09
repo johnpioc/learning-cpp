@@ -1,4 +1,4 @@
-/private/var/folders/70/5000vr_127523hjsrtsl6bp80000gn/T/AppTranslocation/A76FFE10-DE20-4158-B595-5262B56255E5/d/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S "/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp" -B "/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug"
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S "/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp" -B "/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug"
 -- Configuring done (0.0s)
 -- Generating done (0.0s)
 -- Build files have been written to: /Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug

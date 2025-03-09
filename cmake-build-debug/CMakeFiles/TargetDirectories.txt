@@ -9,3 +9,6 @@
 /Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/cli-calculator/CMakeFiles/cli-calculator.dir
 /Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/cli-calculator/CMakeFiles/edit_cache.dir
 /Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/cli-calculator/CMakeFiles/rebuild_cache.dir
+/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/temperature-converter/CMakeFiles/temperature-calculator.dir
+/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/temperature-converter/CMakeFiles/edit_cache.dir
+/Users/johnpioc/Desktop/Desktop - John’s Mac mini/Programming/Learning/learningcpp/cmake-build-debug/projects/temperature-converter/CMakeFiles/rebuild_cache.dir
